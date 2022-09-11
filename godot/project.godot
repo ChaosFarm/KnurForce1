@@ -32,7 +32,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Gra"
+config/name="Knur Force 1"
 run/main_scene="res://scenes/game.tscn"
 config/icon="res://gfx/icon.png"
 
